@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srivishnu99
 - 👀 I’m interested in sharing my knowledge to others. Whatever ;)
-- 🌱 I’m currently learning the trending technologies such as Cloud Computing, Cyber Security and many more..
+- 🌱 I’m currently learning the trending technologies such as Front End Development, Cloud Computing, DevOps and many more..
 - 📫 You can reach out to me via my email srivishnuravinuthala@gmail.com
 
 <!---
